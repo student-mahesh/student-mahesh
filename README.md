@@ -1,8 +1,8 @@
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/light.svg">
-  <img alt="Mahesh's Animated GitHub Profile Banner" src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="light.gif">
+  <img src="dark.gif" alt="Java FullStack with GenAI">
 </picture>
 
 # 💫 About Me:
