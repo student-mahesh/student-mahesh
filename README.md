@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark.gif" width="100%" alt="Dark animated card">
+  <img src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark-photo-text-loop.gif" width="100%" alt="Dark animated card">
 </p>
 
 # 💫 About Me:
