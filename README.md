@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark-photo-text-loop.gif" width="100%" alt="Animated GitHub Banner">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/light.gif">
+  <img src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark.gif" width="100%" alt="Java FullStack with GenAI">
+</picture>
+
 # 💫 About Me:
  Hi 👋, I'm Mahesh<br><br>Java Full Stack Developer | Generative AI Enthusiast<br><br>Building scalable web applications and AI-powered solutions using Java, Spring Boot, React, and Spring AI.<br><br>Exploring Microservices, Docker, Apache Kafka, and Redis,AWS to develop modern, reliable, and scalable applications.
 
