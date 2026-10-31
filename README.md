@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/light.gif">
-  <img src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark.gif" width="100%" alt="Java FullStack with GenAI">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark-photo-text-loop.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/light-photo-text-loop.gif">
+  <img src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark-photo-text-loop.gif" width="100%" alt="Java FullStack with GenAI">
 </picture>
 
 # 💫 About Me:
