@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark-photo-text-loop.gif" width="100%" alt="Java FullStack with GenAI">
 </picture>
 
+
 # 💫 About Me:
  Hi 👋, I'm Mahesh<br><br>Java Full Stack Developer | Generative AI Enthusiast<br><br>Building scalable web applications and AI-powered solutions using Java, Spring Boot, React, and Spring AI.<br><br>Exploring Microservices, Docker, Apache Kafka, and Redis,AWS to develop modern, reliable, and scalable applications.
 
