@@ -1,9 +1,6 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="light.gif">
-  <img src="dark.gif" alt="Java FullStack with GenAI">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/student-mahesh/student-mahesh/main/dark.gif" width="100%" alt="Dark animated card">
+</p>
 
 # 💫 About Me:
  Hi 👋, I'm Mahesh<br><br>Java Full Stack Developer | Generative AI Enthusiast<br><br>Building scalable web applications and AI-powered solutions using Java, Spring Boot, React, and Spring AI.<br><br>Exploring Microservices, Docker, Apache Kafka, and Redis,AWS to develop modern, reliable, and scalable applications.
